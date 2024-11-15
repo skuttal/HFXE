@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: slbae
+title: skuttal
 subtitle: 
 description: An engaging 1-3 sentence description of your lab.
 header: images/background.jpg
@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@slbae.com
+  email: contact@skuttal.com
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
-  github: slbae
-  twitter: slbae
-  youtube: slbae
+  github: skuttal
+  twitter: skuttal
+  youtube: skuttal
 
 ### jekyll settings
 
